@@ -1,0 +1,9 @@
+[package]
+name = "thread-rlib"
+version = "0.1.0"
+authors = ["sxf <sun_xfancy@163.com>"]
+
+[lib]
+crate-type = ["dylib"]
+
+
